@@ -227,6 +227,7 @@ a.social:hover {
   position: relative;
   left: 50%;
   margin-left: -250px;
+  z-index: -1;
 }
 
 .experience {
